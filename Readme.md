@@ -1,4 +1,4 @@
-# Go + HTMX Test Project
+# Go + HTMX
 
 This is a simple project to explore and test the integration of Go and HTMX. The main goal is to familiarize myself with these technologies and understand how they can work together.
 
